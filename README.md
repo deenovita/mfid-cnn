@@ -1,4 +1,5 @@
 # mfid-cnn
+## Uji Parameter dan Arsitektur Convolutional Neural Network Untuk Deteksi Citra Wajah Bermasker
 Repositori ini berisikan model CNN yang dibuat dalam penelitian _Uji Parameter dan Arsitektur Convolutional Neural Network Untuk Deteksi Citra Wajah Bermasker_, dengan tujuan mengetahui hubungan keterkaitan antar parameter ukuran _kernel_ dan jumlah _kernel_ yang digunakan untuk deteksi citra wajah bermasker.
 
 ## Dataset
